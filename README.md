@@ -1,4 +1,4 @@
-# project-euler
+# Project Euler Solutions
 
 A collection of my Python solutions to selected [Project Euler](https://projecteuler.net/) problems.
 
