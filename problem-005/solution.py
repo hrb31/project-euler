@@ -56,5 +56,3 @@ for prime in range(2, limit + 1):
         total *= power
 
 print(total)
-
-## Sieve of Eratosthenes method
