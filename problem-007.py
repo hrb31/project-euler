@@ -24,3 +24,10 @@ for i in range(104500,105000):
 
 list = sieve(max)
 print(list[len(list)-1])
+
+## optimised method
+# after estimating an upper bound (10500) the following code could be used instead
+
+limit = 105000
+primes = sieve(limit)
+print(primes[10000])
