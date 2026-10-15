@@ -1,4 +1,5 @@
 ##initial solution
+# Sieve of Eratosthenes could have been used for a neater solution
 def is_prime(num):
   prime = True
   if num < 2:
