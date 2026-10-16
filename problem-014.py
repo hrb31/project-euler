@@ -23,3 +23,6 @@ for i in range(start,0,-1):
 
 
 print(number)
+
+## memoisation could be used to enhance efficiency
+## optimised solution will be added
