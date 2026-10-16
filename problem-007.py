@@ -26,7 +26,7 @@ list = sieve(max)
 print(list[len(list)-1])
 
 ## optimised method
-# after estimating an upper bound (10500) the following code could be used instead
+# after estimating an upper bound (105000) the following code could be used instead
 
 limit = 105000
 primes = sieve(limit)
